@@ -1,6 +1,6 @@
 .container
  {
-    padding: 0px 16px;
+    padding: 16px 16px 0px 16px;
  }
 
 
@@ -320,6 +320,12 @@ h4
     flex-direction: column-reverse;
 }
 
+.our-process {
+    font-size: 36px;
+margin: 0px 0px 10px 0px;
+font-weight: 800;
+text-align: center;
+}
 
 .laravel 
 {
