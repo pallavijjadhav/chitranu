@@ -91,9 +91,14 @@ body
 .icon 
 {
     color: white;
-    padding: 12px;
+    padding: 8px;
     width: 16px;
     height: 16px;
+}
+
+.view-more-services {
+    font-size: 20px;
+    font-weight: 800;
 }
 
 .idea 
@@ -126,9 +131,9 @@ body
 
 .lets-talk-button 
 {
-    font-size: 24px;
+    font-size: 20px;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: 700;
     color: rgb(108, 99, 255);
     display: flex;
     align-items: center;
@@ -221,11 +226,15 @@ p
 
 .border 
 {
-    height: 40px;
-    width: 40px;
+    height: 24px;
+    width: 24px;
     border: 2px solid rgb(108, 99, 255);
     border-radius: 50%;
     background-color: rgb(108, 99, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 12px;
 }
 
 .hero-banner 
@@ -257,7 +266,7 @@ h2
 
 .button 
 {
-    padding-top: 72px;
+  
     transition: all.2s ease-in-out;
 }
 
